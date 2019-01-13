@@ -285,7 +285,7 @@
 285,LOVEBALL,Love Ball,Love Balls,1,300,"A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.",0,2,4
 286,FRIENDBALL,Friend Ball,Friend Balls,1,300,"A Poké Ball that makes caught Pokémon more friendly.",0,2,4
 287,MOONBALL,Moon Ball,Moon Balls,1,300,"A Poké Ball for catching Pokémon that evolve using the Moon Stone.",0,2,4
-288,TM01,TM01,TM01s,3,3000,"The user sharpens its claws to boost its Attack stat and accuracy.",3,0,0
+288,TM01,TM01,TM01s,3,3000,"The user sharpens its claws to boost its Attack stat and accuracy.",3,0,0,HONECLAWS
 289,TM02,TM02,TM02s,3,3000,"The user slashes the target with huge, sharp claws.",3,0,0
 290,TM03,TM03,TM03s,3,3000,"The user materializes an odd psychic wave to attack the target. This attack does physical damage.",3,0,0
 291,TM04,TM04,TM04s,3,1500,"The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",3,0,0
@@ -333,7 +333,7 @@
 333,TM46,TM46,TM46s,3,2000,"The user attacks and steals the target's held item simultaneously. It can't steal if the user holds an item.",3,0,0
 334,TM47,TM47,TM47s,3,3000,"The user attacks the target's legs swiftly, reducing the target's Speed stat.",3,0,0
 335,TM45,TM45,TM45s,3,3000,"The user attacks the target with a song. Others can join in the Round to increase the power of the attack.",3,0,0
-336,TM49,TM49,TM49s,3,1500,"The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.",3,0,0
+336,TM49,TM49,TM49s,3,1500,"The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.",3,0,0,ECHOEDVOICE
 337,TM50,TM50,TM50s,3,5500,"The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.",3,0,0
 338,TM51,TM51,TM51s,3,1000,"The user teleports using a strange power and switches its place with one of its allies.",3,0,0
 339,TM52,TM52,TM52s,3,5500,"The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.",3,0,0
