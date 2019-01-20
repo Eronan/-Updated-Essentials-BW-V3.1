@@ -230,7 +230,4 @@
 230,WATERBUBBLE,Water Bubble,"Lowers the damage taken from Fire-type moves and can't be burned."
 231,WATERCOMPACTION,Water Compaction,"Sharply boosts Defense when hit by a Water-type move."
 232,WIMPOUT,Wimp Out,"Switches the Pokémon out when its HP becomes half or less."
-233,UPDRAFT,Updraft,"The user whips up a turbulent whirlwind when it enters a battle."
-234,DEADLOCK,Deadlock,"The Pokémon's Dark-type moves with a higher accuracy never miss."
-235,BIGBOMBER,Big Bomber,"Powers up the Pokémon's ball and bomb moves."
 236,NEUROFORCE,Neuroforce,"Powers up moves that are super effective."
