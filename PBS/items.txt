@@ -675,3 +675,4 @@
 675,FISHINGROD,Fishing Rod,Fishing Rods,5,0,"A Fishing Rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.",2,0,6
 676,PROFSMASK,Professor's Mask,Professor's Masks,5,0,"The mask that belongs to The Masked Royal. This pro wrestler apparently sews his mask on a machine himself.",0,0,6
 677,PIXIEPLATE,Pixie Plate,Pixie Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.",0,0,0
+678,XTRANSCEIVER,Xtransceiver,Xtransceivers,5,0,"A high-tech transceiver with a camera function. It allows up to four-way calls.",2,0,6,
